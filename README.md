@@ -1,6 +1,6 @@
-**FinTrackPro**
+**<h1>FinTrackPro</h1>**
 
-The Personal Finance Management System is a comprehensive, web-based application designed to streamline and simplify the management of personal finances. The core objective of this system is to provide users with a robust platform to track their incomes, expenses, savings, and facilitate informed financial decision-making and fostering financial well-being.
+This personal finance management system is a comprehensive, web-based application designed to streamline and simplify the management of personal finances. The core objective of this system is to provide users with a robust platform to track their incomes, expenses, savings, and facilitate informed financial decision-making and fostering financial well-being.
 
 In today's fast-paced world, effectively managing one's personal finances is no easy task. It involves keeping track of multiple streams of income, managing various types of expenses, planning and following budgets, and monitoring savings and investments. This system offers a user-friendly solution, enabling individuals to take control of their financial health by providing them with real-time insights into their financial situation.
 
