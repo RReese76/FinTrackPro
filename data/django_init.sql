@@ -1,5 +1,5 @@
 DROP DATABASE IF EXISTS fintrackpro_db;
-CREATE DATABASE nc_fintrackpro_db;
+CREATE DATABASE fintrackpro_db;
 
 \c fintrackpro_db
 
